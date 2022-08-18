@@ -40,7 +40,7 @@ const profileData = {
       topics: ["TypeScript", "JavaScript"],
     },
     
-  
+  ],
   experiences: [
      
     {
@@ -65,6 +65,6 @@ const profileData = {
       ,
       date: "May  2020",
     },
-    
+    ],
   events: [],
 };
