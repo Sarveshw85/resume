@@ -16,7 +16,7 @@ const profileData = {
   
   education: [
     {
-      alma: "BITS Pilani",
+      alma: "BITS ,Pilani",
       duration: "2020- 2024",
       std: "M.Tech. (Computer Science & Engineering)",
       
@@ -44,7 +44,7 @@ const profileData = {
   experiences: [
      
     {
-      organization: "Wiprotechnologies",
+      organization: "Wipro Technologies",
       title: `Windows Admin`,
       desc: `Student Computer applications`,
       date: "Oct 2019 - Present",
